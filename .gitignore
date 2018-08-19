@@ -1,0 +1,15 @@
+*/__pycache__
+*.DS_Store
+*.py[co]
+.idea*
+build/
+dist/
+*.egg-info
+.pypirc
+tests
+tester
+.tox
+tox.ini
+.pytest_cache
+.eggs*
+.vscode
